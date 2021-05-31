@@ -1,0 +1,36 @@
+.Conteiner {
+    text-align: center;
+    border: red 1px solid;
+    padding: 5px;
+    width: auto;
+    height: auto;
+  }
+
+  .pc{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+  }
+
+.title{
+  white-space: nowrap;
+}
+
+  .firstline{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    white-space: nowrap;
+  }
+
+  .green{
+    background-color: green;
+  }
+
+  .yellow{
+    background-color: yellow;
+}
+
+.red{
+    background-color: red;
+}
